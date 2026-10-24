@@ -3,3 +3,4 @@ P01,Provider,1password_service_account_token,Yes,baseline,Push protection should
 P02,Provider,TBD,To verify,context_variant,Explore difference,NOT_RUN,NA,NA,,
 P03,Provider,TBD,To verify,representation_variant,Explore difference,NOT_RUN,NA,NA,,
 N01,Negative control,None,Not applicable,random_non_secret_string,Expected not to block,NOT_RUN,NA,NA,,
+C01,,None,,ordinary_text,,ACCEPTED,No,N/A,,Ordinary control text pushed successfully; no Push Protection prompt

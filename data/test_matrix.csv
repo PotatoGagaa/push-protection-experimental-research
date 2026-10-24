@@ -1,0 +1,5 @@
+﻿test_id,category,pattern_name,official_push_protection_support,variant,expected_behavior,actual_behavior,push_blocked,alert_created,evidence,notes
+P01,Provider,TBD,To verify,baseline,To verify,NOT_RUN,NA,NA,,
+P02,Provider,TBD,To verify,context_variant,Explore difference,NOT_RUN,NA,NA,,
+P03,Provider,TBD,To verify,representation_variant,Explore difference,NOT_RUN,NA,NA,,
+N01,Negative control,None,Not applicable,random_non_secret_string,Expected not to block,NOT_RUN,NA,NA,,
